@@ -1,6 +1,6 @@
 # TO RUN:
 
-1) go to root of folder
+1) clone this repo and go to root of this project
 2) npm install
 3) npm start
 
