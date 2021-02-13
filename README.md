@@ -1,3 +1,10 @@
+# TO RUN:
+
+1) go to root of folder
+2) npm install
+3) npm start
+
+
 # Ending thoughts
 
 Things that i wish i had more time to do:
@@ -16,3 +23,5 @@ Functionality to add:
 1) export to PDF / excel on selected flight rotation
 
 2) view all selected flight rotation in a nice view (grid or table view)
+
+[Imgur](https://imgur.com/vmZ5w27)
