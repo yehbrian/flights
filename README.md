@@ -24,6 +24,5 @@ Functionality to add:
 
 2) view all selected flight rotation in a nice view (grid or table view)
 
-
-(https://i.imgur.com/vmZ5w27.png)
 [Imgur](https://imgur.com/vmZ5w27)
+![ScreenShot](https://i.imgur.com/vmZ5w27.png)
